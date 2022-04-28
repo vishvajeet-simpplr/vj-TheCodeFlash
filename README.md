@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vj-TheCodeFlash
 - 👀 I’m interested in ... travelling and bike ridings
-- 🌱 I’m currently learning ... mircoservices and aws
+- 🌱 open to learn new tech's
 - 💞️ I’m looking to collaborate on ... salesforce, AWS lambda and microservice development for Simpplr
 - 📫 How to reach me ... vishvajeet.singh@simpplr.com
 
